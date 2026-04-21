@@ -1,7 +1,7 @@
 ## About me
-- Hey! This is Cesar. I'm currently working at [Simply (formerly JoyTunes)](https://www.hellosimply.com/) as a customer service representative. I held previous positions in the same industry at Sitel Group (now known as Foundever®). 
+- Hey! This is Cesar. I'm currently working at [Simply (formerly JoyTunes)](https://www.hellosimply.com/) as a learner experience advocate. Previously, I worked as a customer service analyst, and then a team leader at Sitel Group (now known as Foundever®). 
 - I have a master's degree in South European Studies from the University of Glasgow and a BA degree in Political Science from UNAN-Managua.
-- I'm currently developing skills in data analysis and data engineering.
+- I'm currently developing skills in data engineering.
 
 ## Projects
 -  Work in progress! Portfolio projects coming soon.
