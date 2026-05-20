@@ -1,5 +1,5 @@
 ## About me
-- Hey! This is Cesar. I'm currently working at [Simply (formerly JoyTunes)](https://www.hellosimply.com/) as a learner experience advocate. Previously, I worked as a customer service analyst, and then a team leader at Sitel Group (now known as Foundever®). 
+- Hey! This is Cesar. I currently work at [Simply (formerly JoyTunes)](https://www.hellosimply.com/) as a learner experience advocate. Previously, I was a customer service analyst and then a team leader at Sitel Group (now known as Foundever®). 
 - I have a master's degree in South European Studies from the University of Glasgow and a BA degree in Political Science from UNAN-Managua.
 - I'm currently developing skills in data engineering.
 
@@ -17,5 +17,3 @@
 ![Python](https://img.shields.io/badge/Python-306998?logo=python&logoColor=FFD43B)
 ![R](https://img.shields.io/badge/R-bcbec1?logo=r&logoColor=2596be)
 ![SQL](https://img.shields.io/badge/SQL-e06c1a?logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-008000?logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-1d4679?logo=tableau&logoColor=white)
