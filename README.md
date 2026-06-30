@@ -15,5 +15,5 @@
 
 ## Tool Stack
 ![Python](https://img.shields.io/badge/Python-306998?logo=python&logoColor=FFD43B)
-![R](https://img.shields.io/badge/R-bcbec1?logo=r&logoColor=2596be)
-![SQL](https://img.shields.io/badge/SQL-e06c1a?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+#![SQL](https://img.shields.io/badge/SQL-e06c1a?logo=mysql&logoColor=white)
