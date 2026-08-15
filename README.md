@@ -15,6 +15,7 @@
 
 ## Tool Stack
 ![Python](https://img.shields.io/badge/Python-306998?logo=python&logoColor=FFD43B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0064a5?logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-F3221D?logo=microsoftsqlserver&logoColor=BCBEC0)
+![Git](https://img.shields.io/badge/Git-F1502F?logo=Git&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F1502F?logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-24292E?logo=Github&logoColor=white)
